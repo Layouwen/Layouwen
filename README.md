@@ -23,6 +23,7 @@
             <b>Working:</b> Healthcare IoT & Indoor navigation company
         </li>
     </div>
+    <br/>
     <br>
     <br>
     <br>
