@@ -86,13 +86,6 @@
                 <img src="https://github-readme-streak-stats.herokuapp.com?user=layouwen&theme=jolly"
                      width="50%"/>
             </picture>
-            <picture>
-                <source media="(prefers-color-scheme: dark)"
-                        srcset="https://github-readme-activity-graph.cyclic.app/graph?username=layouwen&count_private=true&bg_color=1a1d26&theme=jolly&hide_border=true&radius=10&area=true"
-                        width="98%">
-                <img src="https://github-readme-activity-graph.cyclic.app/graph?username=layouwen&theme=jolly&area=true"
-                     width="98%"/>
-            </picture>
         </div>
         <h2 align="center"> 📝 ~ 𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓶𝓮 ~ 📝</h2>
         <br>
