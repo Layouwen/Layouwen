@@ -96,7 +96,7 @@
                 <img
                         src="https://img.shields.io/static/v1?style=for-the-badge&message=Twitter&color=1DA1F2&logo=Twitter&logoColor=FFFFFF&label="/></a>
             <a href="mailto:layouwen@gmail.com" target="_blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Gmail&color=5865F2&logo=Discord&logoColor=FFFFFF&label="/></a>
-            <a href="https://www.linkedin.com/in/%E5%8F%88%E6%96%87-%E6%A2%81-3546a8208" target="_blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0077B5&logo=LinkedIn&logoColor=FFFFFF&label="/></a>
+            <a href="https://www.linkedin.com/in/avan-lan-3546a8208/" target="_blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0077B5&logo=LinkedIn&logoColor=FFFFFF&label="/></a>
         </p>
     </div>
     <br>
