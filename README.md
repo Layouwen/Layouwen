@@ -22,6 +22,9 @@
         <li>
             <b>Working:</b> Healthcare IoT & Indoor navigation company
         </li>
+        <li>
+            <b>WeChat:</b> gdgzyw 🛰️
+        </li>
     </div>
     <br/>
     <br>
