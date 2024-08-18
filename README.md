@@ -25,6 +25,9 @@
         <li>
             <b>WeChat:</b> gdgzyw 🛰️
         </li>
+        <li>
+            <b>Phone:</b> 17306671205
+        </li>
     </div>
     <br/>
     <br>
