@@ -1,8 +1,8 @@
 <body>
 <center>
-    <h1 align="center">~ 💖 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓟𝓻𝓸𝓯𝓲𝓵𝓮 💖 ~</h1>
+    <h1 align="center">~ 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓟𝓻𝓸𝓯𝓲𝓵𝓮 ~</h1>
     <div>
-        <h2 align="center"> 🌸 ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ 🌸 </h2>
+        <h2 align="center">~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~</h2>
         <div align="center">
             <img src="./images/avatar.png" align="right" width="30%">
         </div>
@@ -35,7 +35,7 @@
     <br>
     <div>
         <br>
-        <h2 align="center"> ~ 📇 𝓚𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮 📇 ~</h2>
+        <h2 align="center"> ~ 𝓚𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮 ~</h2>
         <br>
         <p>
     </div>
@@ -93,7 +93,7 @@
                      width="50%"/>
             </picture>
         </div>
-        <h2 align="center"> 📝 ~ 𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓶𝓮 ~ 📝</h2>
+        <h2 align="center">~ 𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓶𝓮 ~</h2>
         <br>
         <p align="center">
         </p>
@@ -107,7 +107,7 @@
     </div>
     <br>
     <div>
-        <h2 align="center">💖 ~ 𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 𝓻𝓮𝓪𝓭𝓲𝓷𝓰! ~ 💖</h2>
+        <h2 align="center">~ 𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 𝓻𝓮𝓪𝓭𝓲𝓷𝓰! ~</h2>
 <!--        <hr>-->
     </div>
 </center>
