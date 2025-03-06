@@ -11,22 +11,55 @@
             <b>Name:</b> Avan
         </li>
         <li>
-            <b>Hobby's:</b> anime, steam, coding
+            <b>Hobby's:</b> cat, steam, coding, badminton, travel
         </li>
         <li>
             <b>Gender:</b> he/his/male 🇨🇳
         </li>
         <li>
-            <b>Occupation:</b> Full Stack Development
+            <b>Occupation:</b> Full Stack Development(NodeJs/React/Vue)
         </li>
         <li>
-            <b>Working:</b> Healthcare IoT & Indoor navigation company
+            <b>Last job:</b> Healthcare IoT & Indoor navigation company
+        </li>
+        <li>
+            <b>Status:</b> Available Immediately (2025-05-01T00:00:00.000Z after)
+        </li>
+        <li>
+            <b>Base: Remote / BeiJing</b> 
         </li>
         <li>
             <b>WeChat:</b> gdgzyw 🛰️
         </li>
         <li>
             <b>Phone:</b> 17306671205
+        </li>
+        <li>
+            <b>姓名:</b> 梁又文
+        </li>
+        <li>
+            <b>爱好:</b> 养猫/steam/写代码/羽毛球/旅游
+        </li>
+        <li>
+            <b>性别:</b> 男 🇨🇳
+        </li>
+        <li>
+            <b>职业:</b> 全栈开发(NodeJs/React/Vue)
+        </li>
+        <li>
+            <b>上份工作:</b> 医疗物联网&医院室内导航
+        </li>
+        <li>
+            <b>状态:</b> 已离职找工作 (入职时间 2025年5月 后)
+        </li>
+        <li>
+            <b>Base: 远程 / 北京</b> 
+        </li>
+        <li>
+            <b>微信:</b> gdgzyw
+        </li>
+        <li>
+            <b>手机:</b> 17306671205
         </li>
     </div>
     <br/>
