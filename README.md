@@ -23,7 +23,7 @@
             <b>Last job:</b> Healthcare IoT & Indoor navigation company
         </li>
         <li>
-            <b>Status:</b> Available Immediately (2025-05-01T00:00:00.000Z after)
+            <b>Status:</b> Available Immediately
         </li>
         <li>
             <b>Base: Remote / BeiJing</b> 
@@ -50,7 +50,7 @@
             <b>上份工作:</b> 医疗物联网&医院室内导航
         </li>
         <li>
-            <b>状态:</b> 已离职找工作 (入职时间 2025年5月 后)
+            <b>状态:</b> 已离职找工作
         </li>
         <li>
             <b>Base: 远程 / 北京</b> 
