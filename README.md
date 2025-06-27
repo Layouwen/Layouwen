@@ -25,9 +25,9 @@
         <li>
             <b>Status:</b> Available Immediately
         </li>
-        <li>
+<!--         <li>
             <b>Base: Remote / BeiJing</b> 
-        </li>
+        </li> -->
         <li>
             <b>WeChat:</b> gdgzyw 🛰️
         </li>
@@ -52,9 +52,9 @@
         <li>
             <b>状态:</b> 已离职找工作
         </li>
-        <li>
+<!--         <li>
             <b>Base: 远程 / 北京</b> 
-        </li>
+        </li> -->
         <li>
             <b>微信:</b> gdgzyw
         </li>
