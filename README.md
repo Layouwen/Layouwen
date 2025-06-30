@@ -30,10 +30,11 @@
         <li>
             <b>WeChat:</b> gdgzyw 🛰️
         </li>
-        <br>
         <li>
             <b>Phone:</b> 17306671205
         </li>
+
+        <br>
         <li>
             <b>姓名:</b> 梁又文
         </li>
