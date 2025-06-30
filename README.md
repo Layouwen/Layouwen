@@ -1,10 +1,9 @@
 <body>
-<center>
     <h1 align="center">~ 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓟𝓻𝓸𝓯𝓲𝓵𝓮 ~</h1>
     <div>
         <h2 align="center">~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~</h2>
         <div align="center">
-            <img src="./images/avatar.png" align="right" width="30%">
+            <img src="https://github.com/Layouwen/Layouwen/raw/main/images/avatar.png" align="right" width="30%">
         </div>
         <br>
         <li>
@@ -31,6 +30,7 @@
         <li>
             <b>WeChat:</b> gdgzyw 🛰️
         </li>
+        <br>
         <li>
             <b>Phone:</b> 17306671205
         </li>
@@ -62,19 +62,12 @@
             <b>手机:</b> 17306671205
         </li>
     </div>
-    <br/>
-    <br>
-    <br>
-    <br>
     <div>
         <br>
         <h2 align="center"> ~ 𝓚𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮 ~</h2>
-        <br>
-        <p>
     </div>
     <div>
-        <br>
-        <p align="center">
+        <div>
             <img src="https://img.shields.io/static/v1?style=for-the-badge&message=React&color=222222&logo=React&logoColor=61DAFB&label="
                  alt=""/>
             <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Vue.js&color=222222&logo=Vue.js&logoColor=4FC08D&label="
@@ -107,8 +100,7 @@
                 alt="">
             <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Rust&color=000000&logo=Rust&logoColor=FFFFFF&label="
                 alt=""> -->
-            <br><br>
-        </p>
+        </div>
         <br>
         <div align="center">
             <picture>
@@ -127,21 +119,16 @@
             </picture>
         </div>
         <h2 align="center">~ 𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓶𝓮 ~</h2>
-        <br>
-        <p align="center">
-        </p>
-        <p align="center">
+        <div align="center">
             <a href="https://x.com/avancoding" target="_blank">
                 <img
                         src="https://img.shields.io/static/v1?style=for-the-badge&message=Twitter&color=1DA1F2&logo=Twitter&logoColor=FFFFFF&label="/></a>
             <a href="mailto:layouwen@gmail.com" target="_blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Gmail&color=5865F2&logo=Discord&logoColor=FFFFFF&label="/></a>
             <a href="https://www.linkedin.com/in/avan-lan-3546a8208/" target="_blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0077B5&logo=LinkedIn&logoColor=FFFFFF&label="/></a>
-        </p>
+        </div>
     </div>
     <br>
     <div>
         <h2 align="center">~ 𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 𝓻𝓮𝓪𝓭𝓲𝓷𝓰! ~</h2>
-<!--        <hr>-->
     </div>
-</center>
 </body>
